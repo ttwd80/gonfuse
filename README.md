@@ -1,0 +1,2 @@
+# gonfuse
+Confused about golang
